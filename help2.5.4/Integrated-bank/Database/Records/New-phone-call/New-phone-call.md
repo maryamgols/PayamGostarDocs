@@ -5,7 +5,7 @@
 > نکته مهم: لطفا ابتدا قسمت [اطلاعات مشترک سوابق](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md) را مطالعه کنید.
 
 
-![](NewCalls.jpg)
+![یجاد آیتم تماس تلفنی جدید](NewCalls.jpg)
 
 **1. موضوع:** ابتدا موضوع تماس مشتری را ثبت نمایید
 
